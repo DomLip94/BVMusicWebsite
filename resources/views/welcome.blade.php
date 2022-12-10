@@ -14,7 +14,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet" />
     <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="https://bvmusic.co.uk/assets/media/css/styles.css" rel="stylesheet" />
+    <link href="https://bvmusic.co.uk/assets/css/styles.css" rel="stylesheet" />
 </head>
 <body>
 <img src="https://bvmusic.co.uk/assets/media/img/69231549823__8186164F-6163-478B-A553-ACA2F0B96A3E.jpg">
