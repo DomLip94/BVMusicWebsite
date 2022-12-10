@@ -17,10 +17,10 @@
     <link href="https://bvmusic.co.uk/assets/css/styles.css" rel="stylesheet" />
 </head>
 <body>
-<img src="https://bvmusic.co.uk/assets/media/img/69231549823__8186164F-6163-478B-A553-ACA2F0B96A3E.jpg" class="bg-video">
-{{--<video class="bg-video" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">--}}
-{{--    <source src="assets/mp4/bg.mp4" type="video/mp4" />--}}
-{{--</video>--}}
+{{--<img src="https://bvmusic.co.uk/assets/media/img/69231549823__8186164F-6163-478B-A553-ACA2F0B96A3E.jpg" class="bg-video">--}}
+<video class="bg-video" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+    <source src="https://bvmusic.co.uk/assets/media/img/69231549823__8186164F-6163-478B-A553-ACA2F0B96A3E.jpg" type="video/mp4" />
+</video>
 <div class="masthead">
     <div class="masthead-content text-white">
         <div class="container-fluid px-4 px-lg-0">
